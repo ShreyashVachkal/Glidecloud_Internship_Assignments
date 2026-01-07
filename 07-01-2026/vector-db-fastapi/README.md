@@ -30,7 +30,5 @@ The goal of this project is to understand:
 - **Pydantic** – Request validation
 - **Python 3.10**
 
----
 
-## 📂 Project Structure
 
